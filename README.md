@@ -6,6 +6,8 @@ The data is taken from Kaggle. The dataset includes every used vehicle posted on
 
 https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 
+**Note:** The dataset is too large to be uploaded here. You'll need to download it and put it in the data folder in order for the code to run. Download it using the link above.
+
 Here's a video of me going through my questions and code.
 
 [Software Demo Video](https://youtu.be/uLouZLShrPs)
